@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactwebapp/static/css/main.7845381b.css",
+    "main.js": "/reactwebapp/static/js/main.d8ed3d48.js",
+    "static/js/787.f2b5b0dd.chunk.js": "/reactwebapp/static/js/787.f2b5b0dd.chunk.js",
+    "static/media/bg-svg.svg": "/reactwebapp/static/media/bg-svg.95a444f32a19c2625605ae4b4a61eec9.svg",
+    "static/media/digital.jpeg": "/reactwebapp/static/media/digital.27d3a3513dad7debcf33.jpeg",
+    "static/media/error.webp": "/reactwebapp/static/media/error.9eca26f8a1b4e40cca49.webp",
+    "static/media/abha-title-image.webp": "/reactwebapp/static/media/abha-title-image.789cbcdbca9b37c11d88.webp",
+    "static/media/web.jpg": "/reactwebapp/static/media/web.51f8a5b95d2bfabd2b9c.jpg",
+    "static/media/app.png": "/reactwebapp/static/media/app.99bc6c52843d350708c9.png",
+    "static/media/android1.png": "/reactwebapp/static/media/android1.431e49069f3658dcdb71.png",
+    "static/media/Contact1.svg": "/reactwebapp/static/media/Contact1.96ff86c53af334754c6f62ff54d20dae.svg",
+    "index.html": "/reactwebapp/index.html",
+    "main.7845381b.css.map": "/reactwebapp/static/css/main.7845381b.css.map",
+    "main.d8ed3d48.js.map": "/reactwebapp/static/js/main.d8ed3d48.js.map",
+    "787.f2b5b0dd.chunk.js.map": "/reactwebapp/static/js/787.f2b5b0dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7845381b.css",
+    "static/js/main.d8ed3d48.js"
+  ]
+}
