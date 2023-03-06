@@ -1,5 +1,5 @@
 import React from 'react'
-import web from '../Img/contact1.svg'
+import web from '../Img/Contact1.svg'
 import { useFormik } from 'formik'
 import { signUpSchema } from '../schemas'
 // import { Action } from '@remix-run/router'
